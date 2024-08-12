@@ -23,6 +23,8 @@ A powerful toolkit for building web applications using Node.js, Express, and Mon
    git clone https://github.com/Iqbal313-cloud/NodeExpress-MongoDB-Toolkit.git
 
 2. Install dependencies:
+   
+   ```bash
    npm install
 
 
